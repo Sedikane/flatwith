@@ -1,0 +1,28 @@
+page-home {
+
+    img {
+        border-radius: 50%;
+        padding: 5%;
+        margin-bottom: 0%;
+        margin-top: -30%;
+    }
+
+    h2{
+        font-family: "acumin-pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 40px;
+        color: white;
+        //  padding: 5%;
+        margin-bottom: 0%;
+        margin-top:  0%;
+        //line-height: 1.3;
+        }
+    .div1{
+        
+        position: absolute;
+        bottom: 30px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+   
+}

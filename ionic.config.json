@@ -1,0 +1,7 @@
+{
+  "name": "FlatFinder",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
